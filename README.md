@@ -21,7 +21,7 @@ Instant Messaging: The integrated GSM Sim Module enables the system to send inst
 *->* Power the Arduino Disaster Management System and ensure all connections are secure.  
 
 
-*Usage:*
+*Usage:*  
 *->* Power on the system and ensure all sensors are operational.  
 *->* The system will continuously monitor for earthquakes, gas threats, and fires.  
 *->* In the event of a detected disaster, instant messages will be sent via the GSM Sim Module to local residents.  
@@ -29,7 +29,7 @@ Instant Messaging: The integrated GSM Sim Module enables the system to send inst
 
 
 
-*Disclaimer:*
+*Disclaimer:*  
 This system is designed to enhance disaster management efforts but should not be solely relied upon for critical decisions. It is essential to follow official guidelines and instructions provided by local authorities during emergency situations.
 
 Thank you for using the Arduino Disaster Management System !
