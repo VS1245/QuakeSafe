@@ -14,11 +14,11 @@ Instant Messaging: The integrated GSM Sim Module enables the system to send inst
 
 *Installation Instructions:*
 
-*->* Connect the MPU6050 accelerometer for earthquake detection.
-*->* Attach the MQ2 gas sensor to identify potential gas leaks.
-*->* Install the MH Flame sensor for fire detection.
-*->* Integrate the GSM Sim Module to enable instant messaging capabilities.
-*->* Power the Arduino Disaster Management System and ensure all connections are secure.
+*->* Connect the MPU6050 accelerometer for earthquake detection.  
+*->* Attach the MQ2 gas sensor to identify potential gas leaks.  
+*->* Install the MH Flame sensor for fire detection.  
+*->* Integrate the GSM Sim Module to enable instant messaging capabilities.  
+*->* Power the Arduino Disaster Management System and ensure all connections are secure.  
 
 
 *Usage:*
